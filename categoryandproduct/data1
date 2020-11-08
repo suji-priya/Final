@@ -1,0 +1,8 @@
+{
+    "id": 4,
+    "productName": "samsung",
+    "subChildCategory": {
+        "id":4,
+        "subChildCategoryName": "TV"
+    }
+}

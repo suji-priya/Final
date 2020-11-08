@@ -1,0 +1,60 @@
+{
+    "id": 1,
+    "category_Name": "category",
+     "childCategory": [
+        {
+            "id": 1,
+            "child_CategoryName": "Beauty",
+            "sub_ChildCategory": [
+                {
+                    "id": 1,
+                    "subChildCategoryName": "Lipstic"
+                },
+                {
+                    "id": 2,
+                    "subChildCategoryName": "Liner"
+                },
+                {
+                    "id": 3,
+                    "subChildCategoryName": "BodyLotion"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "child_CategoryName": "Electronics",
+            "sub_ChildCategory": [
+                {
+                    "id": 4,
+                    "subChildCategoryName": "TV"
+                },
+                {
+                    "id": 5,
+                    "subChildCategoryName": "Mixer"
+                },
+                {
+                    "id": 6,
+                    "subChildCategoryName": "Freez"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "child_CategoryName": "Furniture",
+            "sub_ChildCategory": [
+                {
+                    "id": 7,
+                    "subChildCategoryName": "Sofa"
+                },
+                {
+                    "id": 8,
+                    "subChildCategoryName": "Table"
+                },
+                {
+                    "id": 9,
+                    "subChildCategoryName": "Chair"
+                }
+            ]
+        }
+    ]
+}
